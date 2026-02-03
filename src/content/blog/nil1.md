@@ -8,15 +8,15 @@ heroImage: '../../assets/blog-placeholder-4.jpg'
 # **Identificació de placa base**
 
 
-### Per començar, vem agafar tres plaques base:
+Per començar, vem agafar tres plaques base:
 
-### - ASRock P4VM800
+- ASRock P4VM800
 
-### - Asus P5KPL/1600
+- Asus P5KPL/1600
 
-### - HP Compaq Pro 6005 SFF Motherboard
+- HP Compaq Pro 6005 SFF Motherboard
 
-### El primer pas va ser identificar-les, la mes complicada va ser la HP, després vem completar unes taules amb dades d'aquestes plaques, taules com les següents encara que aqui falta informació:
+El primer pas va ser identificar-les, la mes complicada va ser la HP, després vem completar unes taules amb dades d'aquestes plaques, taules com les següents encara que aqui falta informació:
 
 
 ##  
