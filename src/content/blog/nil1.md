@@ -5,30 +5,30 @@ pubDate: 'Jan 23 2026'
 heroImage: '../../assets/blog-placeholder-4.jpg'
 ---
 
-# Identificació de placa base
+# **Identificació de placa base**
 
 
-Per començar, vem agafar tres plaques base:
+### Per començar, vem agafar tres plaques base:
 
-- ASRock P4VM800
+### - ASRock P4VM800
 
-- Asus P5KPL/1600
+### - Asus P5KPL/1600
 
-- HP Compaq Pro 6005 SFF Motherboard
+### - HP Compaq Pro 6005 SFF Motherboard
 
-El primer pas va ser identificar-les, la mes complicada va ser la HP, després vem completar unes taules amb dades d'aquestes plaques, taules com les següents encara que aqui falta informació:
+### El primer pas va ser identificar-les, la mes complicada va ser la HP, després vem completar unes taules amb dades d'aquestes plaques, taules com les següents encara que aqui falta informació:
 
 
 ##  
 
-## ASRock P4VM800
+## **ASRock P4VM800**
 
 |Any | Targeta gràfica | Format | SOCKET | CPU Compatibles | RAM | Versió actual BIOS |
 |----|-----------------|--------|--------|-----------------|-----|-------------------------|
 | 2005 | UniChrome Pro 3D Graphics | Micro ATX | Socket 478 | Intel® Pentium® 4 / Celeron® processor | DDR400/333 non-ECC | AMI BIOS 4 Mb |
 ##  
 
-## Asus P5KPL/1600
+## **Asus P5KPL/1600**
 
 |Any | Targeta gràfica | Format | SOCKET | CPU Compatibles | RAM | Versió actual BIOS |
 |----|-----------------|--------|--------|-----------------|-----|-------------------------|
@@ -36,7 +36,7 @@ El primer pas va ser identificar-les, la mes complicada va ser la HP, després v
 
 ##  
 
-## HP Compaq Pro 6005 SFF Motherboard
+## **HP Compaq Pro 6005 SFF Motherboard**
 
 |Any | Targeta gràfica | Format | SOCKET | CPU Compatibles | RAM | Versió actual BIOS |
 |----|-----------------|--------|--------|-----------------|-----|-------------------------|
