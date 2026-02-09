@@ -2,7 +2,7 @@
 title: 'Primer Dia'
 description: 'Identificar placas base'
 pubDate: 'Jan 23 2026'
-heroImage: '../../assets/blog-placeholder-4.jpg'
+heroImage: '../../assets/motherboard.png'
 ---
 
 # **Identificació de placa base**

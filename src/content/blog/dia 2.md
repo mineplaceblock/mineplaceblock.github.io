@@ -2,7 +2,7 @@
 title: 'Segon Dia'
 description: 'Robot Lego SPIKE'
 pubDate: 'Jan 29 2026'
-heroImage: '../../assets/blog-placeholder-3.jpg'
+heroImage: '../../assets/OIP.webp'
 ---
 
 # Robot de Lego SPIKE
@@ -12,6 +12,9 @@ Aquest dia vam arribar una mica més d'hora, pel fet que teníem una classe espe
 Vam utilitzar un robot de Lego que es diu SPIKE, la seva versió prime, com el que es pot veure a continuació:
 
 ![blog placeholder](../../assets/OIP.webp)
+![blog placeholder](../../assets/lego-program.jpg)
+![blog placeholder](../../assets/lego-machine.jpg)
+![blog placeholder](../../assets/lego-video.mp4)
 
 Vam començar amb unes instruccions fàcils, la primera instrucció va ser que es mogués endavant un segon.
 
