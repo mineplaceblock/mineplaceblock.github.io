@@ -2,7 +2,7 @@
 title: 'Tercer Dia'
 description: 'Identificació de problemes'
 pubDate: 'Jan 30 2026'
-heroImage: '../../assets/3.webp'
+heroImage: '../../assets/3.jpg'
 ---
 Avui ens han lliurat una torre d’ordinador per diagnosticar i reparar. En primer lloc, hem connectat la torre al corrent elèctric i hi hem connectat el monitor per comprovar el seu funcionament. L’equip era capaç d’engegar-se aparentment amb normalitat, ja que els ventiladors i els indicadors lluminosos funcionaven correctament. Tot i això, l’ordinador no mostrava cap imatge al monitor, fet que indicava que existia algun problema de maquinari.
 
