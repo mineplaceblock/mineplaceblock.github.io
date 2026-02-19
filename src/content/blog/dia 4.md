@@ -2,6 +2,7 @@
 title: 'Quart Dia'
 description: 'Dinamica entre grups'
 pubDate: 'Feb 6 2026'
+heroImage: '../../assets/equip.jpg'
 ---
 
 ## Dinamica entre Grups
